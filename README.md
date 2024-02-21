@@ -16,10 +16,10 @@ With the increased amount of data publicly available and the increased focus on 
 
 ## Chapters of the course
 
-1. Introduction  
-2. NLP Basics   
-3. Supplemental Data Cleaning
-4. Vectorizing Raw Data   
-5. Feature Engineering
-6. Building Machine Learning Classifiers   
-7. Conclusion
+0. Introduction  
+1. NLP Basics   
+2. Supplemental Data Cleaning
+3. Vectorizing Raw Data   
+4. Feature Engineering
+5. Building Machine Learning Classifiers   
+6. Conclusion
